@@ -35,7 +35,7 @@ Latest stable version is available on [GitHub releases](https://github.com/dn0ne
 Stable releases are also available on [F-Droid](https://f-droid.org/packages/com.dn0ne.lotus)
 
 ## Support
-If you enjoy using Lotus, consider [buying me a coffee](https://en.liberapay.com/dn0ne/donate)!
+If you enjoy using Lotus, consider [buying the original creatr a coffee](https://en.liberapay.com/dn0ne/donate)!
 
 ## Build
 1. **Get the Source Code**  
@@ -57,6 +57,8 @@ If you enjoy using Lotus, consider [buying me a coffee](https://en.liberapay.com
 That's it! The app should now be running. 
 
 ## Credits
+This a fork from [Dn0ne](https://github.com/dn0ne/lotus)
+
 Some UI elements are inspired by [Vanilla](https://github.com/vanilla-music/vanilla)
 
 Lyrics UI is inspired by [Beautiful Lyrics](https://github.com/surfbryce/beautiful-lyrics)
